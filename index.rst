@@ -89,6 +89,6 @@ Legacy documentation
 These pages are no longer maintained and are included for historical reference.
 
 - `pyger <https://cxc.cfa.harvard.edu/mta/ASPECT/tool_doc/pyger>`_
-- `Ska runtime environment <a href="https://cxc.cfa.harvard.edu/mta/ASPECT/tool_doc/skare">`_
+- `Ska runtime environment <https://cxc.cfa.harvard.edu/mta/ASPECT/tool_doc/skare>`_
 - `taco <https://cxc.cfa.harvard.edu/mta/ASPECT/tool_doc/taco>`_
 - `telem_archive <https://cxc.cfa.harvard.edu/mta/ASPECT/tool_doc/telem_archive>`_
